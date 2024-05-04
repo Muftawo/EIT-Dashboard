@@ -1,0 +1,5 @@
+~$*
+.DS_store
+dummy*
+__pycache__/
+.venv
